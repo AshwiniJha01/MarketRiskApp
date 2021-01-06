@@ -1,6 +1,6 @@
 # MarketRiskApp
 Market Risk application helps in assessing monetary risk associated with different stocks (Indian NSE stocks currently). The application is hosted on a GCP VM temporarily for demonstration purpose: http://34.70.139.63:3838/AshwiniJha/DataScience/QuantitativeFRM/ .
-The web address is likely to change in near future.
+This web address is likely to change in near future.
 
 video: https://www.youtube.com/embed/avL5KI-IDvo
 
