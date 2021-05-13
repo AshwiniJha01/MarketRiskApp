@@ -1,8 +1,7 @@
 # Quantitative FRM - Market Risk App
-Market Risk application helps in assessing monetary risk associated with different stocks (Indian NSE stocks currently). The application is hosted on a GCP VM temporarily for demonstration purpose: http://34.70.139.63:3838/AshwiniJha/DataScience/QuantitativeFRM/ .
-This web address is likely to change in near future.
+Market Risk application helps in assessing monetary risk associated with different stocks (Indian NSE stocks currently). The application is hosted on shinyapps.io: https://ashwinijha.shinyapps.io/QuantitativeFRM/
 
-video: https://www.youtube.com/embed/avL5KI-IDvo
+You can check out the demo video on youtube: https://www.youtube.com/embed/avL5KI-IDvo
 
 There is a short video embedded in this repository that demonstrates how to use the application. The codes behind the application (local app version) is also part of the repository. The UI of the app was developed keeping large screen devices, like laptop or desktop, in mind and hence the app UI is not suitable for mobile or tablet devices (you can still use it by changing the setting in the mobile browser to "Desktop Site" but there will be a skew here and there).
 
