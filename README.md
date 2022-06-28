@@ -1,5 +1,5 @@
 # Quantitative FRM - Market Risk App
-Market Risk application helps in assessing monetary risk associated with different stocks (Indian NSE stocks currently). The application is hosted on shinyapps.io: https://ashwinijha.shinyapps.io/QuantitativeFRM/
+Market Risk application helps in assessing monetary risk associated with different stocks (Indian NSE stocks currently). The application is hosted on shinyapps.io: https://ashwinijha.shinyapps.io/QuantitativeFRM_1_1/
 
 You can check out the demo video on youtube: https://www.youtube.com/embed/avL5KI-IDvo
 
